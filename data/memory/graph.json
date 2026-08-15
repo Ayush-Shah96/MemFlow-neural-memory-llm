@@ -1,0 +1,723 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "name": "Sofia Bennett",
+      "type": "Person",
+      "aliases": [],
+      "sources": [
+        "05_national_development_party.txt",
+        "06_civic_services_act.txt",
+        "08_parliamentary_review.txt"
+      ],
+      "chunks": [
+        "a2d17c6bb0a8609c::chunk-1",
+        "b88d9b116af42fb4::chunk-1",
+        "c4b7b7fca827651f::chunk-1"
+      ],
+      "confidence": 0.99,
+      "salience": 1.1500000000000001,
+      "recall_count": 3,
+      "last_recalled": "2026-08-15T13:56:08.329769+00:00",
+      "id": "sofia bennett"
+    },
+    {
+      "name": "Daniel Reed",
+      "type": "Person",
+      "aliases": [],
+      "sources": [
+        "04_federal_reform.txt",
+        "06_civic_services_act.txt",
+        "08_parliamentary_review.txt"
+      ],
+      "chunks": [
+        "a2d17c6bb0a8609c::chunk-1",
+        "b88d9b116af42fb4::chunk-1",
+        "fd084d3f5b471dba::chunk-1"
+      ],
+      "confidence": 0.99,
+      "salience": 1.1500000000000001,
+      "recall_count": 3,
+      "last_recalled": "2026-08-15T13:56:08.329769+00:00",
+      "id": "daniel reed"
+    },
+    {
+      "name": "Elena Marlow",
+      "type": "Person",
+      "aliases": [],
+      "sources": [
+        "04_federal_reform.txt",
+        "06_civic_services_act.txt",
+        "08_parliamentary_review.txt"
+      ],
+      "chunks": [
+        "a2d17c6bb0a8609c::chunk-1",
+        "b88d9b116af42fb4::chunk-1",
+        "fd084d3f5b471dba::chunk-1"
+      ],
+      "confidence": 0.99,
+      "salience": 1.1500000000000001,
+      "recall_count": 3,
+      "last_recalled": "2026-08-15T13:56:08.329769+00:00",
+      "id": "elena marlow"
+    },
+    {
+      "name": "Marcus Hale",
+      "type": "Person",
+      "aliases": [],
+      "sources": [
+        "05_national_development_party.txt",
+        "06_civic_services_act.txt",
+        "08_parliamentary_review.txt"
+      ],
+      "chunks": [
+        "a2d17c6bb0a8609c::chunk-1",
+        "b88d9b116af42fb4::chunk-1",
+        "c4b7b7fca827651f::chunk-1"
+      ],
+      "confidence": 0.99,
+      "salience": 1.1500000000000001,
+      "recall_count": 3,
+      "last_recalled": "2026-08-15T13:56:08.329769+00:00",
+      "id": "marcus hale"
+    },
+    {
+      "name": "Priya Sen",
+      "type": "Person",
+      "aliases": [],
+      "sources": [
+        "08_parliamentary_review.txt"
+      ],
+      "chunks": [
+        "a2d17c6bb0a8609c::chunk-1"
+      ],
+      "confidence": 0.99,
+      "salience": 1.0,
+      "recall_count": 0,
+      "last_recalled": null,
+      "id": "priya sen"
+    },
+    {
+      "name": "Riverland Regional Council",
+      "type": "Organization",
+      "aliases": [],
+      "sources": [
+        "08_parliamentary_review.txt"
+      ],
+      "chunks": [
+        "a2d17c6bb0a8609c::chunk-1"
+      ],
+      "confidence": 0.99,
+      "salience": 1.0,
+      "recall_count": 0,
+      "last_recalled": null,
+      "id": "riverland regional council"
+    },
+    {
+      "name": "Parliamentary Review of Civic Services Reform",
+      "type": "Concept",
+      "aliases": [],
+      "sources": [
+        "08_parliamentary_review.txt"
+      ],
+      "chunks": [
+        "a2d17c6bb0a8609c::chunk-1"
+      ],
+      "confidence": 0.99,
+      "salience": 1.0,
+      "recall_count": 0,
+      "last_recalled": null,
+      "id": "parliamentary review of civic services reform"
+    },
+    {
+      "name": "Civic Services Reform Act",
+      "type": "Product",
+      "aliases": [],
+      "sources": [
+        "04_federal_reform.txt",
+        "05_national_development_party.txt",
+        "06_civic_services_act.txt",
+        "08_parliamentary_review.txt"
+      ],
+      "chunks": [
+        "a2d17c6bb0a8609c::chunk-1",
+        "b88d9b116af42fb4::chunk-1",
+        "c4b7b7fca827651f::chunk-1",
+        "fd084d3f5b471dba::chunk-1"
+      ],
+      "confidence": 0.99,
+      "salience": 1.1500000000000001,
+      "recall_count": 3,
+      "last_recalled": "2026-08-15T13:56:08.329769+00:00",
+      "id": "civic services reform act"
+    },
+    {
+      "name": "regional digital service grants",
+      "type": "Product",
+      "aliases": [],
+      "sources": [
+        "06_civic_services_act.txt",
+        "08_parliamentary_review.txt"
+      ],
+      "chunks": [
+        "a2d17c6bb0a8609c::chunk-1",
+        "b88d9b116af42fb4::chunk-1"
+      ],
+      "confidence": 0.99,
+      "salience": 1.0,
+      "recall_count": 0,
+      "last_recalled": null,
+      "id": "regional digital service grants"
+    },
+    {
+      "name": "parliamentary committee",
+      "type": "Organization",
+      "aliases": [],
+      "sources": [
+        "08_parliamentary_review.txt"
+      ],
+      "chunks": [
+        "a2d17c6bb0a8609c::chunk-1"
+      ],
+      "confidence": 0.99,
+      "salience": 1.1500000000000001,
+      "recall_count": 3,
+      "last_recalled": "2026-08-15T13:56:08.329769+00:00",
+      "id": "parliamentary committee"
+    },
+    {
+      "name": "implementation review committee",
+      "type": "Organization",
+      "aliases": [],
+      "sources": [
+        "06_civic_services_act.txt",
+        "08_parliamentary_review.txt"
+      ],
+      "chunks": [
+        "a2d17c6bb0a8609c::chunk-1",
+        "b88d9b116af42fb4::chunk-1"
+      ],
+      "confidence": 0.99,
+      "salience": 1.1500000000000001,
+      "recall_count": 3,
+      "last_recalled": "2026-08-15T13:56:08.329769+00:00",
+      "id": "implementation review committee"
+    },
+    {
+      "name": "Federal Reform Coalition",
+      "type": "Organization",
+      "aliases": [],
+      "sources": [
+        "04_federal_reform.txt",
+        "05_national_development_party.txt",
+        "06_civic_services_act.txt"
+      ],
+      "chunks": [
+        "b88d9b116af42fb4::chunk-1",
+        "c4b7b7fca827651f::chunk-1",
+        "fd084d3f5b471dba::chunk-1"
+      ],
+      "confidence": 0.99,
+      "salience": 1.1500000000000001,
+      "recall_count": 3,
+      "last_recalled": "2026-08-15T13:56:08.329769+00:00",
+      "id": "federal reform coalition"
+    },
+    {
+      "name": "National Development Party",
+      "type": "Organization",
+      "aliases": [],
+      "sources": [
+        "04_federal_reform.txt",
+        "05_national_development_party.txt",
+        "06_civic_services_act.txt"
+      ],
+      "chunks": [
+        "b88d9b116af42fb4::chunk-1",
+        "c4b7b7fca827651f::chunk-1",
+        "fd084d3f5b471dba::chunk-1"
+      ],
+      "confidence": 0.99,
+      "salience": 1.1500000000000001,
+      "recall_count": 3,
+      "last_recalled": "2026-08-15T13:56:08.329769+00:00",
+      "id": "national development party"
+    },
+    {
+      "name": "Local councils",
+      "type": "Organization",
+      "aliases": [],
+      "sources": [
+        "06_civic_services_act.txt"
+      ],
+      "chunks": [
+        "b88d9b116af42fb4::chunk-1"
+      ],
+      "confidence": 0.99,
+      "salience": 1.0,
+      "recall_count": 0,
+      "last_recalled": null,
+      "id": "local councils"
+    },
+    {
+      "name": "regional infrastructure",
+      "type": "Concept",
+      "aliases": [],
+      "sources": [
+        "05_national_development_party.txt"
+      ],
+      "chunks": [
+        "c4b7b7fca827651f::chunk-1"
+      ],
+      "confidence": 0.99,
+      "salience": 1.05,
+      "recall_count": 1,
+      "last_recalled": "2026-08-15T13:55:24.524009+00:00",
+      "id": "regional infrastructure"
+    },
+    {
+      "name": "amended proposal",
+      "type": "Concept",
+      "aliases": [],
+      "sources": [
+        "05_national_development_party.txt"
+      ],
+      "chunks": [
+        "c4b7b7fca827651f::chunk-1"
+      ],
+      "confidence": 0.99,
+      "salience": 1.05,
+      "recall_count": 1,
+      "last_recalled": "2026-08-15T13:55:24.524009+00:00",
+      "id": "amended proposal"
+    },
+    {
+      "name": "regional administration",
+      "type": "Concept",
+      "aliases": [],
+      "sources": [
+        "05_national_development_party.txt"
+      ],
+      "chunks": [
+        "c4b7b7fca827651f::chunk-1"
+      ],
+      "confidence": 0.99,
+      "salience": 1.1500000000000001,
+      "recall_count": 3,
+      "last_recalled": "2026-08-15T13:56:08.329769+00:00",
+      "id": "regional administration"
+    },
+    {
+      "name": "implementation framework",
+      "type": "Concept",
+      "aliases": [],
+      "sources": [
+        "05_national_development_party.txt"
+      ],
+      "chunks": [
+        "c4b7b7fca827651f::chunk-1"
+      ],
+      "confidence": 0.99,
+      "salience": 1.1500000000000001,
+      "recall_count": 3,
+      "last_recalled": "2026-08-15T13:56:08.329769+00:00",
+      "id": "implementation framework"
+    },
+    {
+      "name": "regional councils",
+      "type": "Organization",
+      "aliases": [],
+      "sources": [
+        "04_federal_reform.txt"
+      ],
+      "chunks": [
+        "fd084d3f5b471dba::chunk-1"
+      ],
+      "confidence": 0.99,
+      "salience": 1.1500000000000001,
+      "recall_count": 3,
+      "last_recalled": "2026-08-15T13:56:08.329769+00:00",
+      "id": "regional councils"
+    }
+  ],
+  "links": [
+    {
+      "relation": "coordinated_with",
+      "sources": [
+        "05_national_development_party.txt"
+      ],
+      "chunks": [
+        "c4b7b7fca827651f::chunk-1"
+      ],
+      "confidence": 1.0,
+      "timestamp": "2026-08-15T13:53:23.291802+00:00",
+      "weight": 1.04767245,
+      "activation_count": 3,
+      "last_activated": "2026-08-15T13:56:08.329769+00:00",
+      "source": "sofia bennett",
+      "target": "federal reform coalition",
+      "key": "coordinated_with|05_national_development_party.txt|c4b7b7fca827651f::chunk-1"
+    },
+    {
+      "relation": "became_minister_of",
+      "sources": [
+        "05_national_development_party.txt"
+      ],
+      "chunks": [
+        "c4b7b7fca827651f::chunk-1"
+      ],
+      "confidence": 1.0,
+      "timestamp": "2026-08-15T13:53:23.291802+00:00",
+      "weight": 1.0587567,
+      "activation_count": 4,
+      "last_activated": "2026-08-15T13:56:08.329769+00:00",
+      "source": "sofia bennett",
+      "target": "regional administration",
+      "key": "became_minister_of|05_national_development_party.txt|c4b7b7fca827651f::chunk-1"
+    },
+    {
+      "relation": "continued_work_on",
+      "sources": [
+        "05_national_development_party.txt"
+      ],
+      "chunks": [
+        "c4b7b7fca827651f::chunk-1"
+      ],
+      "confidence": 1.0,
+      "timestamp": "2026-08-15T13:53:23.291802+00:00",
+      "weight": 1.04767245,
+      "activation_count": 3,
+      "last_activated": "2026-08-15T13:56:08.329769+00:00",
+      "source": "sofia bennett",
+      "target": "civic services reform act",
+      "key": "continued_work_on|05_national_development_party.txt|c4b7b7fca827651f::chunk-1"
+    },
+    {
+      "relation": "continued_work_on",
+      "sources": [
+        "05_national_development_party.txt"
+      ],
+      "chunks": [
+        "c4b7b7fca827651f::chunk-1"
+      ],
+      "confidence": 1.0,
+      "timestamp": "2026-08-15T13:53:23.291802+00:00",
+      "weight": 1.0587567,
+      "activation_count": 4,
+      "last_activated": "2026-08-15T13:56:08.329769+00:00",
+      "source": "sofia bennett",
+      "target": "implementation framework",
+      "key": "continued_work_on|05_national_development_party.txt|c4b7b7fca827651f::chunk-1"
+    },
+    {
+      "relation": "created",
+      "sources": [
+        "08_parliamentary_review.txt"
+      ],
+      "chunks": [
+        "a2d17c6bb0a8609c::chunk-1"
+      ],
+      "confidence": 0.8,
+      "timestamp": "2026-08-15T13:52:20.622582+00:00",
+      "weight": 0.82153555,
+      "activation_count": 3,
+      "last_activated": "2026-08-15T13:56:08.329769+00:00",
+      "source": "daniel reed",
+      "target": "implementation review committee",
+      "key": "created|08_parliamentary_review.txt|a2d17c6bb0a8609c::chunk-1"
+    },
+    {
+      "relation": "joined",
+      "sources": [
+        "06_civic_services_act.txt"
+      ],
+      "chunks": [
+        "b88d9b116af42fb4::chunk-1"
+      ],
+      "confidence": 0.0,
+      "timestamp": "2026-08-15T13:52:49.499833+00:00",
+      "weight": 0.1,
+      "activation_count": 0,
+      "last_activated": null,
+      "source": "daniel reed",
+      "target": "implementation review committee",
+      "key": "joined|06_civic_services_act.txt|b88d9b116af42fb4::chunk-1"
+    },
+    {
+      "relation": "founded",
+      "sources": [
+        "04_federal_reform.txt"
+      ],
+      "chunks": [
+        "fd084d3f5b471dba::chunk-1"
+      ],
+      "confidence": 0.95,
+      "timestamp": "2026-08-15T13:54:14.283510+00:00",
+      "weight": 0.95,
+      "activation_count": 0,
+      "last_activated": null,
+      "source": "daniel reed",
+      "target": "federal reform coalition",
+      "key": "founded|04_federal_reform.txt|fd084d3f5b471dba::chunk-1"
+    },
+    {
+      "relation": "works_at",
+      "sources": [
+        "04_federal_reform.txt"
+      ],
+      "chunks": [
+        "fd084d3f5b471dba::chunk-1"
+      ],
+      "confidence": 0.9,
+      "timestamp": "2026-08-15T13:54:14.283510+00:00",
+      "weight": 0.9,
+      "activation_count": 0,
+      "last_activated": null,
+      "source": "daniel reed",
+      "target": "federal reform coalition",
+      "key": "works_at|04_federal_reform.txt|fd084d3f5b471dba::chunk-1"
+    },
+    {
+      "relation": "founded",
+      "sources": [
+        "04_federal_reform.txt"
+      ],
+      "chunks": [
+        "fd084d3f5b471dba::chunk-1"
+      ],
+      "confidence": 0.95,
+      "timestamp": "2026-08-15T13:54:14.283510+00:00",
+      "weight": 1.00637015,
+      "activation_count": 2,
+      "last_activated": "2026-08-15T13:56:08.329769+00:00",
+      "source": "elena marlow",
+      "target": "federal reform coalition",
+      "key": "founded|04_federal_reform.txt|fd084d3f5b471dba::chunk-1"
+    },
+    {
+      "relation": "leads",
+      "sources": [
+        "04_federal_reform.txt"
+      ],
+      "chunks": [
+        "fd084d3f5b471dba::chunk-1"
+      ],
+      "confidence": 0.9,
+      "timestamp": "2026-08-15T13:54:14.283510+00:00",
+      "weight": 0.9,
+      "activation_count": 0,
+      "last_activated": null,
+      "source": "elena marlow",
+      "target": "federal reform coalition",
+      "key": "leads|04_federal_reform.txt|fd084d3f5b471dba::chunk-1"
+    },
+    {
+      "relation": "leads",
+      "sources": [
+        "05_national_development_party.txt"
+      ],
+      "chunks": [
+        "c4b7b7fca827651f::chunk-1"
+      ],
+      "confidence": 1.0,
+      "timestamp": "2026-08-15T13:53:23.291802+00:00",
+      "weight": 1.01292465,
+      "activation_count": 1,
+      "last_activated": "2026-08-15T13:55:24.524009+00:00",
+      "source": "marcus hale",
+      "target": "national development party",
+      "key": "leads|05_national_development_party.txt|c4b7b7fca827651f::chunk-1"
+    },
+    {
+      "relation": "appointed",
+      "sources": [
+        "05_national_development_party.txt"
+      ],
+      "chunks": [
+        "c4b7b7fca827651f::chunk-1"
+      ],
+      "confidence": 1.0,
+      "timestamp": "2026-08-15T13:53:23.291802+00:00",
+      "weight": 1.0,
+      "activation_count": 0,
+      "last_activated": null,
+      "source": "marcus hale",
+      "target": "sofia bennett",
+      "key": "appointed|05_national_development_party.txt|c4b7b7fca827651f::chunk-1"
+    },
+    {
+      "relation": "presented",
+      "sources": [
+        "05_national_development_party.txt"
+      ],
+      "chunks": [
+        "c4b7b7fca827651f::chunk-1"
+      ],
+      "confidence": 1.0,
+      "timestamp": "2026-08-15T13:53:23.291802+00:00",
+      "weight": 1.02601585,
+      "activation_count": 2,
+      "last_activated": "2026-08-15T13:55:24.524009+00:00",
+      "source": "marcus hale",
+      "target": "amended proposal",
+      "key": "presented|05_national_development_party.txt|c4b7b7fca827651f::chunk-1"
+    },
+    {
+      "relation": "used_by",
+      "sources": [
+        "08_parliamentary_review.txt"
+      ],
+      "chunks": [
+        "a2d17c6bb0a8609c::chunk-1"
+      ],
+      "confidence": 0.8,
+      "timestamp": "2026-08-15T13:52:20.622582+00:00",
+      "weight": 0.8,
+      "activation_count": 0,
+      "last_activated": null,
+      "source": "priya sen",
+      "target": "riverland regional council",
+      "key": "used_by|08_parliamentary_review.txt|a2d17c6bb0a8609c::chunk-1"
+    },
+    {
+      "relation": "founded",
+      "sources": [
+        "08_parliamentary_review.txt"
+      ],
+      "chunks": [
+        "a2d17c6bb0a8609c::chunk-1"
+      ],
+      "confidence": 0.8,
+      "timestamp": "2026-08-15T13:52:20.622582+00:00",
+      "weight": 0.8545253500000002,
+      "activation_count": 5,
+      "last_activated": "2026-08-15T13:56:08.329769+00:00",
+      "source": "civic services reform act",
+      "target": "parliamentary committee",
+      "key": "founded|08_parliamentary_review.txt|a2d17c6bb0a8609c::chunk-1"
+    },
+    {
+      "relation": "created",
+      "sources": [
+        "06_civic_services_act.txt"
+      ],
+      "chunks": [
+        "b88d9b116af42fb4::chunk-1"
+      ],
+      "confidence": 0.0,
+      "timestamp": "2026-08-15T13:52:49.499833+00:00",
+      "weight": 0.1,
+      "activation_count": 0,
+      "last_activated": null,
+      "source": "civic services reform act",
+      "target": "regional digital service grants",
+      "key": "created|06_civic_services_act.txt|b88d9b116af42fb4::chunk-1"
+    },
+    {
+      "relation": "partnered_with",
+      "sources": [
+        "04_federal_reform.txt",
+        "06_civic_services_act.txt"
+      ],
+      "chunks": [
+        "b88d9b116af42fb4::chunk-1",
+        "fd084d3f5b471dba::chunk-1"
+      ],
+      "confidence": 0.85,
+      "timestamp": "2026-08-15T13:52:49.499833+00:00",
+      "weight": 0.1,
+      "activation_count": 0,
+      "last_activated": null,
+      "source": "federal reform coalition",
+      "target": "national development party",
+      "key": "partnered_with|06_civic_services_act.txt|b88d9b116af42fb4::chunk-1"
+    },
+    {
+      "relation": "created",
+      "sources": [
+        "04_federal_reform.txt"
+      ],
+      "chunks": [
+        "fd084d3f5b471dba::chunk-1"
+      ],
+      "confidence": 0.9,
+      "timestamp": "2026-08-15T13:54:14.283510+00:00",
+      "weight": 0.94554895,
+      "activation_count": 3,
+      "last_activated": "2026-08-15T13:56:08.329769+00:00",
+      "source": "federal reform coalition",
+      "target": "civic services reform act",
+      "key": "created|04_federal_reform.txt|fd084d3f5b471dba::chunk-1"
+    },
+    {
+      "relation": "partnered_with",
+      "sources": [
+        "04_federal_reform.txt"
+      ],
+      "chunks": [
+        "fd084d3f5b471dba::chunk-1"
+      ],
+      "confidence": 0.85,
+      "timestamp": "2026-08-15T13:54:14.283510+00:00",
+      "weight": 0.9028864999999999,
+      "activation_count": 4,
+      "last_activated": "2026-08-15T13:56:08.329769+00:00",
+      "source": "federal reform coalition",
+      "target": "regional councils",
+      "key": "partnered_with|04_federal_reform.txt|fd084d3f5b471dba::chunk-1"
+    },
+    {
+      "relation": "supported",
+      "sources": [
+        "05_national_development_party.txt"
+      ],
+      "chunks": [
+        "c4b7b7fca827651f::chunk-1"
+      ],
+      "confidence": 1.0,
+      "timestamp": "2026-08-15T13:53:23.291802+00:00",
+      "weight": 1.01994545,
+      "activation_count": 1,
+      "last_activated": "2026-08-15T13:55:24.524009+00:00",
+      "source": "national development party",
+      "target": "civic services reform act",
+      "key": "supported|05_national_development_party.txt|c4b7b7fca827651f::chunk-1"
+    },
+    {
+      "relation": "proposed",
+      "sources": [
+        "05_national_development_party.txt"
+      ],
+      "chunks": [
+        "c4b7b7fca827651f::chunk-1"
+      ],
+      "confidence": 1.0,
+      "timestamp": "2026-08-15T13:53:23.291802+00:00",
+      "weight": 1.01994545,
+      "activation_count": 1,
+      "last_activated": "2026-08-15T13:55:24.524009+00:00",
+      "source": "national development party",
+      "target": "regional infrastructure",
+      "key": "proposed|05_national_development_party.txt|c4b7b7fca827651f::chunk-1"
+    },
+    {
+      "relation": "used_by",
+      "sources": [
+        "06_civic_services_act.txt"
+      ],
+      "chunks": [
+        "b88d9b116af42fb4::chunk-1"
+      ],
+      "confidence": 0.0,
+      "timestamp": "2026-08-15T13:52:49.499833+00:00",
+      "weight": 0.1,
+      "activation_count": 0,
+      "last_activated": null,
+      "source": "local councils",
+      "target": "regional digital service grants",
+      "key": "used_by|06_civic_services_act.txt|b88d9b116af42fb4::chunk-1"
+    }
+  ]
+}

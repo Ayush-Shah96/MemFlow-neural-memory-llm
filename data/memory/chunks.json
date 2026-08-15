@@ -1,0 +1,359 @@
+{
+  "a2d17c6bb0a8609c::chunk-1": {
+    "chunk_id": "a2d17c6bb0a8609c::chunk-1",
+    "document_id": "a2d17c6bb0a8609c",
+    "source": "08_parliamentary_review.txt",
+    "text": "Parliamentary Review of Civic Services Reform\n\nThe parliamentary review of the Civic Services Reform Act began in 2024.\nSofia Bennett presented evidence from regional councils.\nDaniel Reed presented findings from the implementation review committee.\n\nThe review concluded that regional digital service grants had improved access to several public services.\nIt recommended continuing the grant program with stronger auditing requirements.\n\nElena Marlow welcomed the review and called for greater transparency in grant reporting.\nMarcus Hale supported the auditing recommendation.\nPriya Sen submitted evidence about the Riverland Regional Council's experience.\n\nThe recommendations were sent to the parliamentary committee for consideration.",
+    "index": 0,
+    "entities": [
+      {
+        "name": "Sofia Bennett",
+        "type": "Person",
+        "aliases": []
+      },
+      {
+        "name": "Daniel Reed",
+        "type": "Person",
+        "aliases": []
+      },
+      {
+        "name": "Elena Marlow",
+        "type": "Person",
+        "aliases": []
+      },
+      {
+        "name": "Marcus Hale",
+        "type": "Person",
+        "aliases": []
+      },
+      {
+        "name": "Priya Sen",
+        "type": "Person",
+        "aliases": []
+      },
+      {
+        "name": "Riverland Regional Council",
+        "type": "Organization",
+        "aliases": []
+      },
+      {
+        "name": "Parliamentary Review of Civic Services Reform",
+        "type": "Concept",
+        "aliases": []
+      },
+      {
+        "name": "Civic Services Reform Act",
+        "type": "Product",
+        "aliases": []
+      },
+      {
+        "name": "regional digital service grants",
+        "type": "Product",
+        "aliases": []
+      },
+      {
+        "name": "parliamentary committee",
+        "type": "Organization",
+        "aliases": []
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Daniel Reed",
+        "relation": "created",
+        "target": "implementation review committee",
+        "confidence": 0.8
+      },
+      {
+        "source": "Priya Sen",
+        "relation": "used_by",
+        "target": "Riverland Regional Council",
+        "confidence": 0.8
+      },
+      {
+        "source": "Civic Services Reform Act",
+        "relation": "founded",
+        "target": "parliamentary committee",
+        "confidence": 0.8
+      }
+    ]
+  },
+  "b88d9b116af42fb4::chunk-1": {
+    "chunk_id": "b88d9b116af42fb4::chunk-1",
+    "document_id": "b88d9b116af42fb4",
+    "source": "06_civic_services_act.txt",
+    "text": "Civic Services Reform Act\n\nThe Civic Services Reform Act was drafted after negotiations between the Federal Reform Coalition and the National Development Party.\nElena Marlow advocated stronger transparency requirements.\nMarcus Hale proposed additional regional infrastructure funding.\nSofia Bennett coordinated the final parliamentary amendments.\n\nThe act was passed in 2022.\nIts implementation framework created regional digital service grants.\nLocal councils could apply for grants to modernize public-service systems.\n\nDaniel Reed later joined the implementation review committee.\nThe committee published its first progress report in 2023.",
+    "index": 0,
+    "entities": [
+      {
+        "name": "Civic Services Reform Act",
+        "type": "Concept",
+        "aliases": []
+      },
+      {
+        "name": "Federal Reform Coalition",
+        "type": "Organization",
+        "aliases": []
+      },
+      {
+        "name": "National Development Party",
+        "type": "Organization",
+        "aliases": []
+      },
+      {
+        "name": "Elena Marlow",
+        "type": "Person",
+        "aliases": []
+      },
+      {
+        "name": "Marcus Hale",
+        "type": "Person",
+        "aliases": []
+      },
+      {
+        "name": "Sofia Bennett",
+        "type": "Person",
+        "aliases": []
+      },
+      {
+        "name": "Daniel Reed",
+        "type": "Person",
+        "aliases": []
+      },
+      {
+        "name": "regional digital service grants",
+        "type": "Product",
+        "aliases": []
+      },
+      {
+        "name": "Local councils",
+        "type": "Organization",
+        "aliases": []
+      },
+      {
+        "name": "implementation review committee",
+        "type": "Organization",
+        "aliases": []
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Federal Reform Coalition",
+        "relation": "partnered_with",
+        "target": "National Development Party",
+        "confidence": 0.0
+      },
+      {
+        "source": "Civic Services Reform Act",
+        "relation": "created",
+        "target": "regional digital service grants",
+        "confidence": 0.0
+      },
+      {
+        "source": "Local councils",
+        "relation": "used_by",
+        "target": "regional digital service grants",
+        "confidence": 0.0
+      },
+      {
+        "source": "Daniel Reed",
+        "relation": "joined",
+        "target": "implementation review committee",
+        "confidence": 0.0
+      }
+    ]
+  },
+  "c4b7b7fca827651f::chunk-1": {
+    "chunk_id": "c4b7b7fca827651f::chunk-1",
+    "document_id": "c4b7b7fca827651f",
+    "source": "05_national_development_party.txt",
+    "text": "National Development Party\n\nThe National Development Party was led by Marcus Hale from 2019 to 2023.\nMarcus Hale appointed Sofia Bennett as parliamentary affairs coordinator.\nSofia Bennett coordinated discussions with the Federal Reform Coalition.\n\nThe National Development Party supported the Civic Services Reform Act after several amendments.\nThe party proposed additional funding for regional infrastructure.\nMarcus Hale presented the amended proposal during a parliamentary session in 2022.\n\nAfter the 2022 election, Sofia Bennett became minister for regional administration.\nShe continued work on the Civic Services Reform Act and its implementation framework.",
+    "index": 0,
+    "entities": [
+      {
+        "name": "National Development Party",
+        "type": "Organization",
+        "aliases": []
+      },
+      {
+        "name": "Marcus Hale",
+        "type": "Person",
+        "aliases": []
+      },
+      {
+        "name": "Sofia Bennett",
+        "type": "Person",
+        "aliases": []
+      },
+      {
+        "name": "Federal Reform Coalition",
+        "type": "Organization",
+        "aliases": []
+      },
+      {
+        "name": "Civic Services Reform Act",
+        "type": "Concept",
+        "aliases": []
+      },
+      {
+        "name": "regional infrastructure",
+        "type": "Concept",
+        "aliases": []
+      },
+      {
+        "name": "amended proposal",
+        "type": "Concept",
+        "aliases": []
+      },
+      {
+        "name": "regional administration",
+        "type": "Concept",
+        "aliases": []
+      },
+      {
+        "name": "implementation framework",
+        "type": "Concept",
+        "aliases": []
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Marcus Hale",
+        "relation": "leads",
+        "target": "National Development Party",
+        "confidence": 1.0
+      },
+      {
+        "source": "Marcus Hale",
+        "relation": "appointed",
+        "target": "Sofia Bennett",
+        "confidence": 1.0
+      },
+      {
+        "source": "Sofia Bennett",
+        "relation": "coordinated_with",
+        "target": "Federal Reform Coalition",
+        "confidence": 1.0
+      },
+      {
+        "source": "National Development Party",
+        "relation": "supported",
+        "target": "Civic Services Reform Act",
+        "confidence": 1.0
+      },
+      {
+        "source": "National Development Party",
+        "relation": "proposed",
+        "target": "regional infrastructure",
+        "confidence": 1.0
+      },
+      {
+        "source": "Marcus Hale",
+        "relation": "presented",
+        "target": "amended proposal",
+        "confidence": 1.0
+      },
+      {
+        "source": "Sofia Bennett",
+        "relation": "became_minister_of",
+        "target": "regional administration",
+        "confidence": 1.0
+      },
+      {
+        "source": "Sofia Bennett",
+        "relation": "continued_work_on",
+        "target": "Civic Services Reform Act",
+        "confidence": 1.0
+      },
+      {
+        "source": "Sofia Bennett",
+        "relation": "continued_work_on",
+        "target": "implementation framework",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "fd084d3f5b471dba::chunk-1": {
+    "chunk_id": "fd084d3f5b471dba::chunk-1",
+    "document_id": "fd084d3f5b471dba",
+    "source": "04_federal_reform.txt",
+    "text": "Federal Reform Coalition\n\nThe Federal Reform Coalition was formed in 2018 by Elena Marlow and Daniel Reed.\nElena Marlow became the coalition's first chairperson.\nDaniel Reed served as policy director.\n\nThe coalition proposed the Civic Services Reform Act in 2020.\nThe proposal focused on digital public services, government transparency, and local administrative funding.\nIn 2021, the coalition joined negotiations with the National Development Party.\n\nElena Marlow supported a parliamentary committee to review the reform proposal.\nDaniel Reed prepared the coalition's policy brief for the committee.\nThe coalition later worked with regional councils to revise its funding provisions.",
+    "index": 0,
+    "entities": [
+      {
+        "name": "Federal Reform Coalition",
+        "type": "Organization",
+        "aliases": []
+      },
+      {
+        "name": "Elena Marlow",
+        "type": "Person",
+        "aliases": []
+      },
+      {
+        "name": "Daniel Reed",
+        "type": "Person",
+        "aliases": []
+      },
+      {
+        "name": "Civic Services Reform Act",
+        "type": "Concept",
+        "aliases": []
+      },
+      {
+        "name": "National Development Party",
+        "type": "Organization",
+        "aliases": []
+      },
+      {
+        "name": "regional councils",
+        "type": "Organization",
+        "aliases": []
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Elena Marlow",
+        "relation": "founded",
+        "target": "Federal Reform Coalition",
+        "confidence": 0.95
+      },
+      {
+        "source": "Daniel Reed",
+        "relation": "founded",
+        "target": "Federal Reform Coalition",
+        "confidence": 0.95
+      },
+      {
+        "source": "Elena Marlow",
+        "relation": "leads",
+        "target": "Federal Reform Coalition",
+        "confidence": 0.9
+      },
+      {
+        "source": "Daniel Reed",
+        "relation": "works_at",
+        "target": "Federal Reform Coalition",
+        "confidence": 0.9
+      },
+      {
+        "source": "Federal Reform Coalition",
+        "relation": "created",
+        "target": "Civic Services Reform Act",
+        "confidence": 0.9
+      },
+      {
+        "source": "Federal Reform Coalition",
+        "relation": "partnered_with",
+        "target": "National Development Party",
+        "confidence": 0.85
+      },
+      {
+        "source": "Federal Reform Coalition",
+        "relation": "partnered_with",
+        "target": "regional councils",
+        "confidence": 0.85
+      }
+    ]
+  }
+}
