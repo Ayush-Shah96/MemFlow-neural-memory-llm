@@ -6,6 +6,11 @@ Neural Memory LLM ingests documents, converts them into interconnected concepts 
 
 Instead of treating every document chunk as an isolated vector result, the system builds a persistent memory graph that can connect information across documents.
 
+
+
+https://github.com/user-attachments/assets/671bb3fb-e753-43d1-9b22-e9b23ad553ae
+
+
 ## What is Neural Memory LLM?
 
 The project combines three layers:
@@ -82,7 +87,7 @@ The memory layer is separate from the LLM provider. OpenRouter, Ollama, or anoth
 
 The following graph shows the kind of interconnected memory structure produced from the ingested documents.
 
-![Neural Memory Graph](data/neural-memeory-llm.jpg)
+![Neural Memory Graph](data/neural-memeory-llm.png)
 
 The graph contains concepts such as:
 
